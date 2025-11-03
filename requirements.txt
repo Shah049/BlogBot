@@ -1,0 +1,5 @@
+gradio
+groq
+python-docx
+requests
+beautifulsoup4
