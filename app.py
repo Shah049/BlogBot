@@ -29,7 +29,7 @@ from docx.shared import Pt
 # Replace the string below with your Groq API key.
 # WARNING: Do NOT commit real secrets to a public repo. For HF Spaces, prefer using
 # the Secrets mechanism and then set: GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_your_api_key"
 
 # Example: If deploying on Hugging Face Spaces and you'd rather use secrets:
 # GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # uncomment when using HF secrets
